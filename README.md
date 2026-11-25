@@ -1,6 +1,6 @@
 # Portafolio de docencia y extensión — Felipe Cubillos Díaz
 
-Material elaborado durante ayudantías, tutorías y actividades de extensión (Universidad de Concepción, Facultad de Ciencias Físicas y Matemáticas). Respaldo de la postulación ANID Magíster 2027.
+Material elaborado durante ayudantías, tutorías y actividades de extensión (Universidad de Concepción, Facultad de Ciencias Físicas y Matemáticas).
 
 > **Ayudantía ≠ Tutoría.** En *Álgebra y Trigonometría* (527103) son actividades distintas y están en carpetas separadas:
 > - **Ayudantía**: sesiones guiadas por los *listados* oficiales del curso.
